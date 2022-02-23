@@ -1,5 +1,5 @@
 
-English | [中文]()
+English | [中文](https://github.com/CCY0122/QuickChart/blob/main/README-ZH)
 
 ---
 
