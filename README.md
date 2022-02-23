@@ -1,2 +1,15 @@
+
+English | [中文]()
+
+---
+
 # QuickChart
-QuickChart(快制图表) app 官方主页
+
+so quick and easy to create your charts
+
+## Feedback
+Please create an issue here
+
+## Privacy Policy
+https://www.privacypolicies.com/live/c9f1fdb4-1f3f-46bc-8e7e-5e1c05444926
+
