@@ -17,7 +17,8 @@
 在App Store(针对iOS)或Google Play(针对Android)中搜索“快制图表”
 
 ## 反馈
-请在[这里](https://github.com/CCY0122/QuickChart/issues/new)提交Issue
+* 发邮件给我 671518768@qq.com
+* 或者请在[这里](https://github.com/CCY0122/QuickChart/issues/new)提交Issue
 
 ## 隐私政策
 https://www.privacypolicies.com/live/c9f1fdb4-1f3f-46bc-8e7e-5e1c05444926
