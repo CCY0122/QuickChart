@@ -14,7 +14,9 @@
   |-|-|-|-|-|
 
 ## 获取app
-在App Store(针对iOS)或Google Play(针对Android)中搜索“快制图表”
+[App Store(for iOS & MacOS)](https://itunes.apple.com/cn/app/id1611358648?mt=8) <br/>
+[Google Play(for Android)](https://play.google.com/store/apps/details?id=com.yong.quick_chart) <br/>
+[华为(for Android China)](https://url.cloud.huawei.com/uSlgs06Gv6)
 
 ## 反馈
 * 发邮件给我 671518768@qq.com
