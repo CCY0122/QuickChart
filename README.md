@@ -13,8 +13,8 @@ English | [中文](https://github.com/CCY0122/QuickChart/blob/main/README-ZH.md)
   |-|-|-|-|-|
 
 ## Get the app
-[App Store(for iOS & MacOS)](https://itunes.apple.com/cn/app/id1611358648?mt=8)
-[Google Play(for Android)](https://play.google.com/store/apps/details?id=com.yong.quick_chart)
+[App Store(for iOS & MacOS)](https://itunes.apple.com/cn/app/id1611358648?mt=8) <br/>
+[Google Play(for Android)](https://play.google.com/store/apps/details?id=com.yong.quick_chart) <br/>
 [HUAWEI(for Android China)](https://url.cloud.huawei.com/uSlgs06Gv6)
 
 ## Feedback
